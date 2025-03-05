@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\bin\Debug\Week3-3.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\bin\Debug\Week3-3.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\bin\Debug\Week3-3.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3-3.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3_3.Form1.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3_3.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3-3.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3-3.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3-3.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\Week3-3\Week3-3\obj\Debug\Week3-3.pdb

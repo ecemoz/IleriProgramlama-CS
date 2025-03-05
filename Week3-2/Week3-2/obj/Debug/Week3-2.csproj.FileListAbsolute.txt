@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3-2.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3_2.Form1.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3_2.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3-2.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3-2.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\bin\Debug\Week3-2.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\bin\Debug\Week3-2.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\bin\Debug\Week3-2.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3-2.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\Week3-2\Week3-2\obj\Debug\Week3-2.pdb
