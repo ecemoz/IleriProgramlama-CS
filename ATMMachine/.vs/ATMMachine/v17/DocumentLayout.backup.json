@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\atmmachine\\atmmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|solutionrelative:atmmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\atmmachine\\atmmachine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|solutionrelative:atmmachine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\atmmachine\\atmmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C1901-4344-419B-8CA5-736DD6455D81}|ATMMachine\\ATMMachine.csproj|solutionrelative:atmmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ATMMachine\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.Designer.cs*",
+              "RelativeToolTip": "ATMMachine\\Form1.Designer.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:31:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "ATMMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.cs*",
+              "RelativeToolTip": "ATMMachine\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:31:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "ATMMachine\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\ATMMachine\\ATMMachine\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "ATMMachine\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:30:53.614Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

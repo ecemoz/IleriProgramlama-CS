@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\bin\Debug\ATMMachine.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.Form1.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\ATMMachine\ATMMachine\obj\Debug\ATMMachine.pdb
