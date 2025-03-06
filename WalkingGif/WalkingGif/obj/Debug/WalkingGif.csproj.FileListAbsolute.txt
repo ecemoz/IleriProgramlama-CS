@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\bin\Debug\WalkingGif.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\bin\Debug\WalkingGif.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\bin\Debug\WalkingGif.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.Form1.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\WalkingGif\WalkingGif\obj\Debug\WalkingGif.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\walkinggif\\walkinggif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|solutionrelative:walkinggif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\walkinggif\\walkinggif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|solutionrelative:walkinggif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\walkinggif\\walkinggif\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5BE891-776B-4143-8DB0-1650899112EB}|WalkingGif\\WalkingGif.csproj|solutionrelative:walkinggif\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WalkingGif\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.Designer.cs",
+              "RelativeToolTip": "WalkingGif\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:54:41.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.cs",
+              "RelativeDocumentMoniker": "WalkingGif\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.cs",
+              "RelativeToolTip": "WalkingGif\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:54:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.cs",
+              "RelativeDocumentMoniker": "WalkingGif\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\WalkingGif\\WalkingGif\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WalkingGif\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:39:38.829Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
