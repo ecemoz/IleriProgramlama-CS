@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.Form1.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.pdb

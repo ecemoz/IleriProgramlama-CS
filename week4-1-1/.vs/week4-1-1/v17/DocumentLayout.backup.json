@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\week4-1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B4918-617C-489C-9E54-DDC9703BF14B}|week4-1-1\\week4-1-1.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\week4-1-1\\week4-1-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF6B4918-617C-489C-9E54-DDC9703BF14B}|week4-1-1\\week4-1-1.csproj|solutionrelative:week4-1-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\week4-1-1\\week4-1-1\\Form1.cs",
+              "RelativeDocumentMoniker": "week4-1-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\week4-1-1\\week4-1-1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "week4-1-1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:50:25.737Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
