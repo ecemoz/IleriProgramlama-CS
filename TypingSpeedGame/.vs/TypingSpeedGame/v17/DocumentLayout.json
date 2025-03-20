@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\typingspeedgame\\typingspeedgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|solutionrelative:typingspeedgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\typingspeedgame\\typingspeedgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|solutionrelative:typingspeedgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\typingspeedgame\\typingspeedgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|solutionrelative:typingspeedgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|c:\\users\\ecemn\\onedrive\\desktop\\github\\ileriprogramlama-cs\\typingspeedgame\\typingspeedgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60E05E0-953C-47DA-AD3B-6588FF3F63E6}|TypingSpeedGame\\TypingSpeedGame.csproj|solutionrelative:typingspeedgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Program.cs",
+              "RelativeDocumentMoniker": "TypingSpeedGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Program.cs",
+              "RelativeToolTip": "TypingSpeedGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:28:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TypingSpeedGame\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.Designer.cs",
+              "RelativeToolTip": "TypingSpeedGame\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:27:39.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.cs",
+              "RelativeDocumentMoniker": "TypingSpeedGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.cs",
+              "RelativeToolTip": "TypingSpeedGame\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:26:42.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.cs",
+              "RelativeDocumentMoniker": "TypingSpeedGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\ecemn\\OneDrive\\Desktop\\GitHub\\IleriProgramlama-CS\\TypingSpeedGame\\TypingSpeedGame\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TypingSpeedGame\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:23:05.643Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

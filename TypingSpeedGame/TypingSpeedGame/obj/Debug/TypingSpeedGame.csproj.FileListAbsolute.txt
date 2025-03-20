@@ -1,0 +1,10 @@
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.csproj.AssemblyReference.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.GameForm.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.Properties.Resources.resources
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.csproj.GenerateResource.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\bin\Debug\TypingSpeedGame.exe.config
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\bin\Debug\TypingSpeedGame.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\bin\Debug\TypingSpeedGame.pdb
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.exe
+C:\Users\ecemn\OneDrive\Desktop\GitHub\IleriProgramlama-CS\TypingSpeedGame\TypingSpeedGame\obj\Debug\TypingSpeedGame.pdb
